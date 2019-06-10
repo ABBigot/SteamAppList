@@ -9,4 +9,4 @@ Modules required: pandas, requests
 
 ## Authors
 
-* **Alexandre Bigot** - *Biblou*
+* **Alexandre Bigot** - *ABBigot*
